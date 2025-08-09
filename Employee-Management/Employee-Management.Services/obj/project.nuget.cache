@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+O14t0Nd1bY=",
+  "dgSpecHash": "G/vy7dPUCTs=",
   "success": true,
-  "projectFilePath": "\\\\wsl.localhost\\Ubuntu-22.04\\home\\dev\\workspace\\github.com\\lain-the-coder\\Employee-Management\\Employee-Management\\Employee-Management.Services\\Employee-Management.Services.csproj",
+  "projectFilePath": "\\\\wsl.localhost\\Ubuntu-22.04\\home\\dev\\workspace\\github.com\\lain-the-coder\\Employee-Management\\Employee-Management\\Employee-Management.Services\\EmployeeManagement.Services.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ahmed\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\ahmed\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",

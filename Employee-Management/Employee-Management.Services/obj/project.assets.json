@@ -1015,7 +1015,7 @@
           }
         }
       },
-      "Employee-Management.Repository/1.0.0": {
+      "EmployeeManagement.Repository/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
         "dependencies": {
@@ -1023,10 +1023,10 @@
           "Microsoft.EntityFrameworkCore.SqlServer": "7.0.20"
         },
         "compile": {
-          "bin/placeholder/Employee-Management.Repository.dll": {}
+          "bin/placeholder/EmployeeManagement.Repository.dll": {}
         },
         "runtime": {
-          "bin/placeholder/Employee-Management.Repository.dll": {}
+          "bin/placeholder/EmployeeManagement.Repository.dll": {}
         }
       }
     }
@@ -2766,17 +2766,17 @@
         "useSharedDesignerContext.txt"
       ]
     },
-    "Employee-Management.Repository/1.0.0": {
+    "EmployeeManagement.Repository/1.0.0": {
       "type": "project",
-      "path": "../EmployeeManagement.Repository/Employee-Management.Repository.csproj",
-      "msbuildProject": "../EmployeeManagement.Repository/Employee-Management.Repository.csproj"
+      "path": "../EmployeeManagement.Repository/EmployeeManagement.Repository.csproj",
+      "msbuildProject": "../EmployeeManagement.Repository/EmployeeManagement.Repository.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net7.0": [
       "AutoMapper >= 12.0.1",
       "AutoMapper.Extensions.Microsoft.DependencyInjection >= 12.0.1",
-      "Employee-Management.Repository >= 1.0.0"
+      "EmployeeManagement.Repository >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -2786,9 +2786,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "\\\\wsl.localhost\\Ubuntu-22.04\\home\\dev\\workspace\\github.com\\lain-the-coder\\Employee-Management\\Employee-Management\\Employee-Management.Services\\Employee-Management.Services.csproj",
-      "projectName": "Employee-Management.Services",
-      "projectPath": "\\\\wsl.localhost\\Ubuntu-22.04\\home\\dev\\workspace\\github.com\\lain-the-coder\\Employee-Management\\Employee-Management\\Employee-Management.Services\\Employee-Management.Services.csproj",
+      "projectUniqueName": "\\\\wsl.localhost\\Ubuntu-22.04\\home\\dev\\workspace\\github.com\\lain-the-coder\\Employee-Management\\Employee-Management\\Employee-Management.Services\\EmployeeManagement.Services.csproj",
+      "projectName": "EmployeeManagement.Services",
+      "projectPath": "\\\\wsl.localhost\\Ubuntu-22.04\\home\\dev\\workspace\\github.com\\lain-the-coder\\Employee-Management\\Employee-Management\\Employee-Management.Services\\EmployeeManagement.Services.csproj",
       "packagesPath": "C:\\Users\\ahmed\\.nuget\\packages\\",
       "outputPath": "\\\\wsl.localhost\\Ubuntu-22.04\\home\\dev\\workspace\\github.com\\lain-the-coder\\Employee-Management\\Employee-Management\\Employee-Management.Services\\obj\\",
       "projectStyle": "PackageReference",
@@ -2811,8 +2811,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "\\\\wsl.localhost\\Ubuntu-22.04\\home\\dev\\workspace\\github.com\\lain-the-coder\\Employee-Management\\Employee-Management\\EmployeeManagement.Repository\\Employee-Management.Repository.csproj": {
-              "projectPath": "\\\\wsl.localhost\\Ubuntu-22.04\\home\\dev\\workspace\\github.com\\lain-the-coder\\Employee-Management\\Employee-Management\\EmployeeManagement.Repository\\Employee-Management.Repository.csproj"
+            "\\\\wsl.localhost\\Ubuntu-22.04\\home\\dev\\workspace\\github.com\\lain-the-coder\\Employee-Management\\Employee-Management\\EmployeeManagement.Repository\\EmployeeManagement.Repository.csproj": {
+              "projectPath": "\\\\wsl.localhost\\Ubuntu-22.04\\home\\dev\\workspace\\github.com\\lain-the-coder\\Employee-Management\\Employee-Management\\EmployeeManagement.Repository\\EmployeeManagement.Repository.csproj"
             }
           }
         }

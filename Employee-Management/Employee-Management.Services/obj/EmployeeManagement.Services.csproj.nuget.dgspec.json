@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "\\\\wsl.localhost\\Ubuntu-22.04\\home\\dev\\workspace\\github.com\\lain-the-coder\\Employee-Management\\Employee-Management\\Employee-Management.Services\\Employee-Management.Services.csproj": {}
+    "\\\\wsl.localhost\\Ubuntu-22.04\\home\\dev\\workspace\\github.com\\lain-the-coder\\Employee-Management\\Employee-Management\\Employee-Management.Services\\EmployeeManagement.Services.csproj": {}
   },
   "projects": {
-    "\\\\wsl.localhost\\Ubuntu-22.04\\home\\dev\\workspace\\github.com\\lain-the-coder\\Employee-Management\\Employee-Management\\Employee-Management.Services\\Employee-Management.Services.csproj": {
+    "\\\\wsl.localhost\\Ubuntu-22.04\\home\\dev\\workspace\\github.com\\lain-the-coder\\Employee-Management\\Employee-Management\\Employee-Management.Services\\EmployeeManagement.Services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "\\\\wsl.localhost\\Ubuntu-22.04\\home\\dev\\workspace\\github.com\\lain-the-coder\\Employee-Management\\Employee-Management\\Employee-Management.Services\\Employee-Management.Services.csproj",
-        "projectName": "Employee-Management.Services",
-        "projectPath": "\\\\wsl.localhost\\Ubuntu-22.04\\home\\dev\\workspace\\github.com\\lain-the-coder\\Employee-Management\\Employee-Management\\Employee-Management.Services\\Employee-Management.Services.csproj",
+        "projectUniqueName": "\\\\wsl.localhost\\Ubuntu-22.04\\home\\dev\\workspace\\github.com\\lain-the-coder\\Employee-Management\\Employee-Management\\Employee-Management.Services\\EmployeeManagement.Services.csproj",
+        "projectName": "EmployeeManagement.Services",
+        "projectPath": "\\\\wsl.localhost\\Ubuntu-22.04\\home\\dev\\workspace\\github.com\\lain-the-coder\\Employee-Management\\Employee-Management\\Employee-Management.Services\\EmployeeManagement.Services.csproj",
         "packagesPath": "C:\\Users\\ahmed\\.nuget\\packages\\",
         "outputPath": "\\\\wsl.localhost\\Ubuntu-22.04\\home\\dev\\workspace\\github.com\\lain-the-coder\\Employee-Management\\Employee-Management\\Employee-Management.Services\\obj\\",
         "projectStyle": "PackageReference",

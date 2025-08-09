@@ -2974,9 +2974,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "\\\\wsl.localhost\\Ubuntu-22.04\\home\\dev\\workspace\\github.com\\lain-the-coder\\Employee-Management\\Employee-Management\\EmployeeManagement.Repository\\Employee-Management.Repository.csproj",
-      "projectName": "Employee-Management.Repository",
-      "projectPath": "\\\\wsl.localhost\\Ubuntu-22.04\\home\\dev\\workspace\\github.com\\lain-the-coder\\Employee-Management\\Employee-Management\\EmployeeManagement.Repository\\Employee-Management.Repository.csproj",
+      "projectUniqueName": "\\\\wsl.localhost\\Ubuntu-22.04\\home\\dev\\workspace\\github.com\\lain-the-coder\\Employee-Management\\Employee-Management\\EmployeeManagement.Repository\\EmployeeManagement.Repository.csproj",
+      "projectName": "EmployeeManagement.Repository",
+      "projectPath": "\\\\wsl.localhost\\Ubuntu-22.04\\home\\dev\\workspace\\github.com\\lain-the-coder\\Employee-Management\\Employee-Management\\EmployeeManagement.Repository\\EmployeeManagement.Repository.csproj",
       "packagesPath": "C:\\Users\\ahmed\\.nuget\\packages\\",
       "outputPath": "\\\\wsl.localhost\\Ubuntu-22.04\\home\\dev\\workspace\\github.com\\lain-the-coder\\Employee-Management\\Employee-Management\\EmployeeManagement.Repository\\obj\\",
       "projectStyle": "PackageReference",
